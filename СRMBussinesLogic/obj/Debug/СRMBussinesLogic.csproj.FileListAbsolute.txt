@@ -1,0 +1,12 @@
+C:\Users\Chip\Desktop\C#\MyCRM\СRMBussinesLogic\bin\Debug\СRMBussinesLogic.dll.config
+C:\Users\Chip\Desktop\C#\MyCRM\СRMBussinesLogic\bin\Debug\СRMBussinesLogic.dll
+C:\Users\Chip\Desktop\C#\MyCRM\СRMBussinesLogic\bin\Debug\СRMBussinesLogic.pdb
+C:\Users\Chip\Desktop\C#\MyCRM\СRMBussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\Chip\Desktop\C#\MyCRM\СRMBussinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chip\Desktop\C#\MyCRM\СRMBussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\Chip\Desktop\C#\MyCRM\СRMBussinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chip\Desktop\C#\MyCRM\СRMBussinesLogic\obj\Debug\СRMBussinesLogic.csprojAssemblyReference.cache
+C:\Users\Chip\Desktop\C#\MyCRM\СRMBussinesLogic\obj\Debug\СRMBussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Chip\Desktop\C#\MyCRM\СRMBussinesLogic\obj\Debug\СRMBussinesLogic.csproj.CopyComplete
+C:\Users\Chip\Desktop\C#\MyCRM\СRMBussinesLogic\obj\Debug\СRMBussinesLogic.dll
+C:\Users\Chip\Desktop\C#\MyCRM\СRMBussinesLogic\obj\Debug\СRMBussinesLogic.pdb
